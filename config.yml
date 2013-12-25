@@ -32,3 +32,7 @@ info-date-command: 'The server was created on [SERVER CREATION DATE HERE]'
 
 # /info staff - command to find out the staff currently.
 info-staff-command: 'The Staff On This Server Is [STAFF NAMES HERE]'
+
+# /info list - command to find out all the /info's
+info-staff-command: 'LIST'
+
