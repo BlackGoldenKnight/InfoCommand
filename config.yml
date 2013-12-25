@@ -1,0 +1,34 @@
+######################################################################################
+##																					##
+##									Info Command									##	
+##									Bukkit Plugin								    ##
+##									config.yml						                ##
+##																					##
+######################################################################################
+
+############################################################
+# +------------------------------------------------------+ #
+# |                 InfoCommand (General)                | #
+# +------------------------------------------------------+ #
+############################################################
+
+# A color for the [Info] tag in game.
+info-colour: '1'
+
+# Colour of the text after the [Info] tag.
+info-tag-colour: '2'
+
+# /info - command message
+info-command: 'Welcome to the server! Nice to see you here!
+
+# /info help - command help message.
+info-help-command: 'This is the help command, You don't have access to this command. Sorry!'
+
+# /info new - command to a new player.
+info-new-command: 'Welcome to [SERVER NAME HERE], If you need any help feel free to ask a staff member.'
+
+# /info date - command to find out when the server was created.
+info-date-command: 'The server was created on [SERVER CREATION DATE HERE]'
+
+# /info staff - command to find out the staff currently.
+info-staff-command: 'The Staff On This Server Is [STAFF NAMES HERE]'
