@@ -1,0 +1,7 @@
+name: Info Command
+main: me.Info.Command.Core
+version: 1.0
+description: Set up commands for players.
+commands:
+  New:
+    description: Create a new command.
